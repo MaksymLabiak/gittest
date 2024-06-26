@@ -1,3 +1,8 @@
 p {
     color: rgb(62, 62, 140);
 }
+
+h2 {
+    color: yellow;
+    font-size: 32px;
+}
